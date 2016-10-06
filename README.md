@@ -1,2 +1,2 @@
 # IntelliJPlugin-SpringStructure
-  WIP-Creates Repository Interface and Services classes of selected class
+  WIP-Creates Repository Interface and Service classes of selected class
